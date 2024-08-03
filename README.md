@@ -12,36 +12,9 @@ The Medium Parser is a Flutter application designed to parse articles from Mediu
 ## UI
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="./images/homescreen.png" alt="Homescreen" width="200"/>
-    <img src="./images/article.png" alt="Article" width="200"/>
+    <img src="./assets/homescreen.png" alt="Homescreen" width="200"/>
+    <img src="./assets/article.png" alt="Article" width="200"/>
 </div>
-
-## Installation
-
-To install and run the Medium Parser, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/medium-parser.git
-   cd medium-parser
-   ```
-
-2. **Install Flutter:**
-
-   Make sure you have Flutter installed. If not, follow the instructions [here](https://flutter.dev/docs/get-started/install).
-
-3. **Get dependencies:**
-
-   ```bash
-   flutter pub get
-   ```
-
-4. **Run the application:**
-
-   ```bash
-   flutter run
-   ```
 
 ## Usage
 
@@ -59,16 +32,6 @@ To install and run the Medium Parser, follow these steps:
 ## Configuration
 
 The configuration of the Medium Parser can be modified in the app settings. You can adjust settings such as the output directory, logging level, and more.
-
-## Contributing
-
-We welcome contributions to improve the Medium Parser. If you have suggestions, bug reports, or want to contribute code, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add your feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request.
 
 ## License
 
